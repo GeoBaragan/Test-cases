@@ -1,5 +1,6 @@
 # Test case samples
 Below are some test case samples that I wrote while working on previous projects.
+
 **Description:** Check if the login works when a user enters the correct credentials.
 **Steps to reproduce:** 
 1. Open website.com/login
