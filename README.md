@@ -1,7 +1,7 @@
 # Test case samples
 Below are some test case samples that I wrote while working on previous projects.
 
-**Description:** Check if the login works when a user enters the correct credentials.
+**1. Description:** Check if the login works when a user enters the correct credentials.
 
 **Steps to reproduce:** 
 1. Open website.com/login
@@ -12,7 +12,7 @@ Below are some test case samples that I wrote while working on previous projects
 
 **Test data:** User: georgiana & password: 1234
 
-**Description:** Check if the login fails when a person uses wrong credentials.
+**2. Description:** Check if the login fails when a person uses wrong credentials.
 
 **Steps to reproduce:** 
 1. Open https://auth.emag.ro/user/login
@@ -23,7 +23,7 @@ Below are some test case samples that I wrote while working on previous projects
 
 **Test data:** User: georgiana & password: 1234
 
-**Description:** Check if the login works without introducing any credentials.
+**3. Description:** Check if the login works without introducing any credentials.
 
 **Steps to reproduce:** 
 1. Open https://auth.emag.ro/user/login
@@ -34,7 +34,7 @@ Below are some test case samples that I wrote while working on previous projects
 
 **Test data:** User: georgiana & password: 1234
 
-**Description:** Check if the login fails when a person enters correct e-mail, but wrong password.
+**4. Description:** Check if the login fails when a person enters correct e-mail, but wrong password.
 
 **Steps to reproduce:**
 1. Open https://auth.emag.ro/user/login
@@ -47,7 +47,7 @@ Below are some test case samples that I wrote while working on previous projects
 
 **Test data:** User: georgiana & password: 1234
 
-**Description:** Check if the search functionality returns relevant results that match the entered query.
+**5. Description:** Check if the search functionality returns relevant results that match the entered query.
 
 **Steps to reproduce:** 
 1. Open https://www.emag.ro/
