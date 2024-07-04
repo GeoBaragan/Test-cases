@@ -12,6 +12,7 @@ Below are some test case samples that I wrote while working on previous projects
 
 **Test data:** User: georgiana & password: 1234
 
+
 **2. Description:** Check if the login fails when a person uses wrong credentials.
 
 **Steps to reproduce:** 
@@ -23,6 +24,7 @@ Below are some test case samples that I wrote while working on previous projects
 
 **Test data:** User: georgiana & password: 1234
 
+
 **3. Description:** Check if the login works without introducing any credentials.
 
 **Steps to reproduce:** 
@@ -33,6 +35,7 @@ Below are some test case samples that I wrote while working on previous projects
 **Expected result:** An appropriate error message should be displayed indicating that the e-mail address field is a required field.
 
 **Test data:** User: georgiana & password: 1234
+
 
 **4. Description:** Check if the login fails when a person enters correct e-mail, but wrong password.
 
@@ -46,6 +49,7 @@ Below are some test case samples that I wrote while working on previous projects
 **Expected result:** An appropriate error message should be displayed indicating that the introduced password or e-mail address is incorrect and asking the user to introduce his password again.
 
 **Test data:** User: georgiana & password: 1234
+
 
 **5. Description:** Check if the search functionality returns relevant results that match the entered query.
 
